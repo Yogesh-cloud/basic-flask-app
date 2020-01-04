@@ -1,4 +1,4 @@
-FROM python 2.7
+FROM python:2.7
 MAINTAINER yogesh
 RUN mkdir sample-app
 WORKDIR sample-app
